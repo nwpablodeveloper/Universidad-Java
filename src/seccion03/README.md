@@ -1,5 +1,4 @@
 ## SECCIÓN 03
-### Variables en Java
 
 <table>
     <thead>
@@ -13,7 +12,7 @@
             <td colspan="3">Tipos Referenciales ( tipo Object )</td>
         </tr>
         <tr>
-            <td>Tipos Enteros</td>
+            <td>[Tipos Enteros](./TiposEnterosTiposString)</td>
             <td>Tipos Flotantes</td>
             <td>Clases</td>
             <td>Interfaces</td>
