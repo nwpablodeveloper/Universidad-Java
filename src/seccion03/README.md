@@ -13,7 +13,7 @@
         </tr>
         <tr>
             <td>
-                <a href="./TiposEnterosTiposString">Tipos Enteros</a></td>
+                <a href="./TiposEnterosTiposString.java">Tipos Enteros</a></td>
             <td>Tipos Flotantes</td>
             <td>Clases</td>
             <td>Interfaces</td>
