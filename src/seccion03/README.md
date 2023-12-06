@@ -12,7 +12,8 @@
             <td colspan="3">Tipos Referenciales ( tipo Object )</td>
         </tr>
         <tr>
-            <td> [Tipos Enteros](./TiposEnterosTiposString) </td>
+            <td>
+                <a href="./TiposEnterosTiposString">Tipos Enteros</a></td>
             <td>Tipos Flotantes</td>
             <td>Clases</td>
             <td>Interfaces</td>
