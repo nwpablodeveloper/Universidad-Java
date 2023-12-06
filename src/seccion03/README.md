@@ -1,4 +1,16 @@
 ## SECCIÓN 03
+### Variables en Java
+### [Tipos de Variables ENTEROS Y STRING](./TiposEnterosTiposString)
+### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString)
+### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString)
+### Reglas para definir una variable
+* primer letra en miniscula
+* caracteres permitidos al comienzo: $ , _ , 
+* no puede comenzar con un número
+* no se recomienda usar palabras con acentos o Ñ
+### [Concatenación](./Concatenacion)
+### [Caracteres Espaciales](./CaracteresEspeciales)
+### [Ingreso de datos por el usuario - Scanner](./ClaseScanner)
 
 <table>
     <thead>
@@ -21,3 +33,17 @@
         <tr>
     </tbody>
 </table>
+
+
+### TAREA
+Se solicita incluir la siguiente información acerca de un libro:
+
+titulo
+
+autor
+
+Debes imprimir la información en el siguiente formato:
+
+Proporciona el titulo:
+Proporciona el autor:
+<titulo> fue escrito por <autor>
