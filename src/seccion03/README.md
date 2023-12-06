@@ -1,16 +1,16 @@
 ## SECCIÓN 03
 ### Variables en Java
-### [Tipos de Variables ENTEROS Y STRING](./TiposEnterosTiposString)
-### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString)
-### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString)
+### [Tipos de Variables ENTEROS Y STRING](./TiposEnterosTiposString.java)
+### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString.java)
+### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString.java)
 ### Reglas para definir una variable
 * primer letra en miniscula
 * caracteres permitidos al comienzo: $ , _ , 
 * no puede comenzar con un número
 * no se recomienda usar palabras con acentos o Ñ
-### [Concatenación](./Concatenacion)
-### [Caracteres Espaciales](./CaracteresEspeciales)
-### [Ingreso de datos por el usuario - Scanner](./ClaseScanner)
+### [Concatenación](./Concatenacion.java)
+### [Caracteres Espaciales](./CaracteresEspeciales.java)
+### [Ingreso de datos por el usuario - Scanner](./ClaseScanner.java)
 
 <table>
     <thead>
