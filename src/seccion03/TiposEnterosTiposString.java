@@ -8,10 +8,13 @@ package seccion03;
  *
  * @author Pablo
  */
-public class NewClass {
+public class TiposEnterosTiposString {
     
     static public void main(String arg[]){
-        System.out.println("Seccion03");
+        
+        int miVariableEntera = 10;
+        System.out.println("miVariableEntera = " + miVariableEntera);
+        
     }
     
 }
