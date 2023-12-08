@@ -1,16 +1,5 @@
 ## SECCIÓN 03
 ### Variables en Java
-### [Tipos de Variables ENTEROS Y STRING](./TiposEnterosTiposString.java)
-### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString.java)
-### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString.java)
-### Reglas para definir una variable
-* primer letra en miniscula
-* caracteres permitidos al comienzo: $ , _ , 
-* no puede comenzar con un número
-* no se recomienda usar palabras con acentos o Ñ
-### [Concatenación](./Concatenacion.java)
-### [Caracteres Espaciales](./CaracteresEspeciales.java)
-### [Ingreso de datos por el usuario - Scanner](./ClaseScanner.java)
 
 <table>
     <thead>
@@ -33,6 +22,20 @@
         <tr>
     </tbody>
 </table>
+
+### [Tipos de Variables ENTEROS Y STRING](./TiposEnterosTiposString.java)
+### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString.java)
+### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString.java)
+### Reglas para definir una variable
+* primer letra en miniscula
+* caracteres permitidos al comienzo: $ , _ , 
+* no puede comenzar con un número
+* no se recomienda usar palabras con acentos o Ñ
+### [Concatenación](./Concatenacion.java)
+### [Caracteres Espaciales](./CaracteresEspeciales.java)
+### [Ingreso de datos por el usuario - Scanner](./ClaseScanner.java)
+La Clase Scanner siempre devuelve un tipo string, en caso de que sea un
+número hay que convertirlo a otro dato para poder hacer calculos.
 
 
 ### TAREA

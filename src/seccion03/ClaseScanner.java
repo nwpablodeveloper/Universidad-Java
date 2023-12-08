@@ -8,6 +8,7 @@ public class ClaseScanner {
 
     public static void main(String arg[]){
     
+        // La clase Scanner siempre devuelve un string
         Scanner consola = new Scanner(System.in);
         System.out.println("Escribe tu nombre:");
         
