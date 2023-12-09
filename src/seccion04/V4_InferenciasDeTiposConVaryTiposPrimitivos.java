@@ -1,5 +1,5 @@
 
-public class InferenciasDeTiposConVaryTiposPrimitivos {
+public class V4_InferenciasDeTiposConVaryTiposPrimitivos {
 
     public static void main(String arg[]){
     

@@ -1,5 +1,5 @@
 
-public class TiposPrimitivosTipoBoolean {
+public class V6_TiposPrimitivosTipoBoolean {
 
     public static void main(String arg[]) {
 

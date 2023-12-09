@@ -1,5 +1,5 @@
 
-public class TiposPrimitivosTipoChar {
+public class V5_TiposPrimitivosTipoChar {
     
     public static void main(String arg[]){
     

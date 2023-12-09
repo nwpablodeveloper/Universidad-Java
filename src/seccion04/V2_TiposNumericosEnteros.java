@@ -1,5 +1,5 @@
 
-public class TiposNumericosEnteros {
+public class V2_TiposNumericosEnteros {
     
     public static void main(String arg[]){   
         

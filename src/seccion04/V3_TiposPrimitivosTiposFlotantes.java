@@ -1,5 +1,5 @@
 
-public class TiposPrimitivosTiposFlotantes {
+public class V3_TiposPrimitivosTiposFlotantes {
 
     public static void main(String arg[]){
     

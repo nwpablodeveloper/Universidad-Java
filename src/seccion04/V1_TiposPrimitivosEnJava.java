@@ -1,5 +1,5 @@
 
-public class TiposPrimitivosEnJava {
+public class V1_TiposPrimitivosEnJava {
     
     public static void main(String arg[]){
     
