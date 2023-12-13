@@ -1,6 +1,7 @@
 # Universidad JAVA
 
 ### [Sección 02: Fundamentos Java: Instalación Java y Apache Netbeans](./src/seccion02)
+#### 19 min
 * Download JDK
 * Download IDE Apache Netbeans
 * Hola Mundo
