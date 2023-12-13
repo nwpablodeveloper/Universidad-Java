@@ -31,7 +31,7 @@
 * Precedencia de Operadores
 * Tarea calcular el área y perimetro de un rectángulo
 
-### [Seccion 06: Fundamentosde Java: Sentencias de Control](./src/seccion05)
+### [Seccion 06: Fundamentosde Java: Sentencias de Control](./src/seccion06)
 * Sentencia de control IF ELSE
 * Ejercicio IF ELSE
 * Ejercicio estación del año según el mes que estamos
