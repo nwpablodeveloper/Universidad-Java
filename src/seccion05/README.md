@@ -1,7 +1,7 @@
-## SECCIÓN 050
+## SECCIÓN 05
 ### Operadores en Java
-#### [Operadores](./Operadores.pdf)
-#### [Prioridad en los operadores en su ejecución](./operadores-prioridad.png)
+####[Operadores](./Operadores.pdf)
+####[Prioridad en los operadores en su ejecución](./operadores-prioridad.png)
 
 
 ###[1. Operadores Artimeticos ](./V01_OperadoresAritmeticosEnJava.java)
