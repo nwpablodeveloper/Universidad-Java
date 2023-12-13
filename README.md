@@ -1,13 +1,16 @@
 # Universidad JAVA
 
-###[Sección 02: Fundamentos Java: Instalación Java y Apache Netbeans](./src/seccion02)
+### [Sección 02: Fundamentos Java: Instalación Java y Apache Netbeans](./src/seccion02)
+* Download JDK
+* Download IDE Apache Netbeans
+* Hola Mundo
 
-###[Sección 03: Fundamentos Java: Variables en Java](./src/seccion03)
+### [Sección 03: Fundamentos Java: Variables en Java](./src/seccion03)
 * Variables y tipos de variables
 * Concatenación y caracteres especiales
 * Ingresos de datos por consola con Scanner
 
-###[Seccion 04: Fundamentosde Java: Tipos Primitivos en Java](./src/seccion04)
+### [Seccion 04: Fundamentosde Java: Tipos Primitivos en Java](./src/seccion04)
 * Tipos de datos primitivos
 * Tipo de datos Númericos y Enteros
 * Tipo de datos Float y Double
@@ -16,7 +19,7 @@
 * Tipo Boolean
 * Conversión de Tipo de datos
 
-###[Seccion 05: Fundamentosde Java: Operadores en Java](./src/seccion05)
+### [Seccion 05: Fundamentosde Java: Operadores en Java](./src/seccion05)
 * Operadores Aritmeticos
 * Operadores de asignación
 * Operadores Unarios
@@ -27,7 +30,7 @@
 * Precedencia de Operadores
 * Tarea calcular el área y perimetro de un rectángulo
 
-###[Seccion 06: Fundamentosde Java: Sentencias de Control](./src/seccion05)
+### [Seccion 06: Fundamentosde Java: Sentencias de Control](./src/seccion05)
 * Sentencia de control IF ELSE
 * Ejercicio IF ELSE
 * Ejercicio estación del año según el mes que estamos
