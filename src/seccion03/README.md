@@ -26,7 +26,7 @@
 ### [Tipos de Variables ENTEROS Y STRING](./TiposEnterosTiposString.java)
 ### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString.java)
 ### [VAR - inferencia de tipos de variables](./TiposEnterosTiposString.java)
-###Reglas para definir una variable
+### Reglas para definir una variable
 * primer letra en miniscula
 * caracteres permitidos al comienzo: $ , _ , 
 * no puede comenzar con un número
