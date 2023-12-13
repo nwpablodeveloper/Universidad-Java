@@ -1,6 +1,6 @@
 package seccion05;
 
-public class V7_OperadorTernarioJava {
+public class V07_OperadorTernarioJava {
 
     public static void main(String arg[]) {
 

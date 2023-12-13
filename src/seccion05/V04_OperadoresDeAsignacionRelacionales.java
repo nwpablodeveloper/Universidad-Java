@@ -1,12 +1,12 @@
 package seccion05;
 
-public class V4_OperadoresDeAsignacionRelacionales {
+public class V04_OperadoresDeAsignacionRelacionales {
 
     public static void main(String arg[]) {
 
         var a = 3;
-        System.out.println("a = " + a);
         var b = 2;
+        System.out.println("a = " + a);
         System.out.println("b = " + b);
 
         System.out.println("Operador de igualdad: a = b");

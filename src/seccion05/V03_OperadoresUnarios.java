@@ -1,6 +1,6 @@
 package seccion05;
 
-public class V3_OperadoresUnarios {
+public class V03_OperadoresUnarios {
 
     public static void main(String arg[]) {
 

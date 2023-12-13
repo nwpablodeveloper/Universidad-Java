@@ -2,7 +2,7 @@ package seccion06;
 
 import java.util.Scanner;
 
-public class V6_TareaSistemaCalificaciones {
+public class V06_TareaSistemaCalificaciones {
 
     public static void main(String arg[]) {
 

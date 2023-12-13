@@ -1,7 +1,7 @@
 
 package seccion05;
 
-public class V6_OperadoresCondicionalesJava {
+public class V06_OperadoresCondicionalesJava {
 
     public static void main(String arg[]){
     
@@ -11,6 +11,8 @@ public class V6_OperadoresCondicionalesJava {
         
         System.out.println("Si uno de los valores es falso,");
         System.out.println("toda la expresion se considera falsa");
+        
+        // Con el operador AND las 2 condiciones se tienen que cumplir
         var resultado = a >= valorMinimo && a <= valorMaximo;
         System.out.println("resultado = " + resultado);
         if(resultado){
@@ -21,7 +23,9 @@ public class V6_OperadoresCondicionalesJava {
         
         System.out.println("");
         var vacaciones = false;
-        var diaDescanso = false;
+        var diaDescanso = true;
+        
+        // Con el operador OR que que solo se cumpla una condición es true
         if( vacaciones || diaDescanso ){
             System.out.println("No trabajas");
         }else{

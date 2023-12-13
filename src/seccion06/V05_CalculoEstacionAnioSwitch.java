@@ -1,6 +1,6 @@
 package seccion06;
 
-public class V5_CalculoEstacionAnioSwitch {
+public class V05_CalculoEstacionAnioSwitch {
 
     public static void main(String arg[]) {
 

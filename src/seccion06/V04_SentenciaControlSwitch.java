@@ -4,7 +4,7 @@
  */
 package seccion06;
 
-public class V4_SentenciaControlSwitch {
+public class V04_SentenciaControlSwitch {
     
     public static void main(String arg[]){
     

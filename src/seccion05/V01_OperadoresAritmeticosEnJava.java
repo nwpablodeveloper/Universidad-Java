@@ -1,6 +1,6 @@
 package seccion05;
 
-public class V1_OperadoresAritmeticosEnJava {
+public class V01_OperadoresAritmeticosEnJava {
 
     public static void main(String arg[]) {
 

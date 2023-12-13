@@ -1,6 +1,6 @@
 package seccion05;
 
-public class V2_OperadoresDeAsignacionEnJava {
+public class V02_OperadoresDeAsignacionEnJava {
 
     public static void main(String arg[]) {
 

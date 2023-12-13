@@ -2,7 +2,7 @@
 package seccion05;
 
 
-public class V5_OperadoresRelacionales {
+public class V05_OperadoresRelacionales {
     
     public static void main(String arg[]){
         

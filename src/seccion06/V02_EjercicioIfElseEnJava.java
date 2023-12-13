@@ -1,6 +1,6 @@
 package seccion06;
 
-public class V2_EjercicioIfElseEnJava {
+public class V02_EjercicioIfElseEnJava {
 
     public static void main(String arg[]) {
 

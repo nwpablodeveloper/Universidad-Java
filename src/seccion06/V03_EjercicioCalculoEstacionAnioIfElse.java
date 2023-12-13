@@ -5,7 +5,7 @@ package seccion06;
 import java.util.Scanner;
 
 
-public class V3_EjercicioCalculoEstacionAnioIfElse {
+public class V03_EjercicioCalculoEstacionAnioIfElse {
     
     
     public static void main(String arg[]){

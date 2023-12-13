@@ -3,7 +3,7 @@ package seccion05;
 
 import java.util.Scanner;
 
-public class V9_TareaRectangulo {
+public class V09_TareaRectangulo {
 
     public static void main(String arg[]){
     

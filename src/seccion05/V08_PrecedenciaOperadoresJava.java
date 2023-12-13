@@ -2,7 +2,7 @@
 package seccion05;
 
 
-public class V8_PrecedenciaOperadoresJava {
+public class V08_PrecedenciaOperadoresJava {
 
     public static void main(String arg[]){
     

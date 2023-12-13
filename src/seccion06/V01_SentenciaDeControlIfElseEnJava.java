@@ -1,6 +1,6 @@
 package seccion06;
 
-public class V1_SentenciaDeControlIfElseEnJava {
+public class V01_SentenciaDeControlIfElseEnJava {
 
     public static void main(String arg[]) {
 
