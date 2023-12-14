@@ -1,3 +1,5 @@
+package seccion03;
+
 
 import java.util.Scanner;
 
