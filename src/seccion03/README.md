@@ -1,5 +1,4 @@
-## SECCIÓN 03
-### Variables en Java
+## SECCIÓN 03 - Variables en Java
 
 <table>
     <thead>

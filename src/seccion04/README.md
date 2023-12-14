@@ -1,5 +1,5 @@
-## SECCIÓN 04
-### [Tipos de datos Primitivos - ver PDF](./01-VariablesJava.pdf)
+## SECCIÓN 04 - [Tipos de datos Primitivos - ver PDF](./01-VariablesJava.pdf)
+
 ### [1. Tipos de datos primitivos en Java](./V1_TiposPrimitivosEnJava.java)
 * Integer
 * Flout

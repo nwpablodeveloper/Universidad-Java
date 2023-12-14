@@ -1,4 +1,4 @@
-## SECCIÓN 2 - Istalaciones requeridas
+## SECCIÓN 2 - Instalaciones requeridas
 
 * [Download JDK](https://www.oracle.com/es/java/technologies/downloads/)
 * [Download Apache Netbeans - la herramienta para desarrollar](https://netbeans.apache.org/front/main/download/index.html)
