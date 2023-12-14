@@ -11,7 +11,7 @@ que el nombre de la clase sea en primera letra mayuscula
     }
 ```
 
-### [2. Crear una clase](./V02_AtributosMetodosClasePersona.java)
+### [2. Atributos y metodos de una clase](./V02_AtributosMetodosClasePersona.java)
 * Creando los atributos de una clase
 * Cración de un metodo
 ```java
@@ -30,7 +30,7 @@ que el nombre de la clase sea en primera letra mayuscula
 
 ```
 
-### [3. Crear una clase](./V03_ObjetosPruebaPersona.java)
+### [3. Crear un Objeto](./V03_ObjetosPruebaPersona.java)
 * Creación del objeto con la clase creada
 ```java
     public class V03_ObjetosPruebaPersona {

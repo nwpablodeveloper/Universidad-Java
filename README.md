@@ -40,4 +40,13 @@
 * Tarea calificación de un examen con IF ELSE
 
 ### [Seccion 07: Fundamentosde Java: Ciclos en Java](./src/seccion07)
+* Ciclo While
+* Ciclo Do While
+* Ciclo For
+* Break y Contine
+* Etiquetas
 
+### [Seccion 08: Fundamentosde Java: Creación de clasee](./src/seccion08)
+* Crear una clase
+* Atributos y metodos de una clase
+* Creación del objeto
