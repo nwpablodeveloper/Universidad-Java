@@ -1,5 +1,5 @@
-## SECCIÓN 05
-### Operadores en Java
+## SECCIÓN 05 - Operadores en Java
+
 #### [Operadores](./Operadores.pdf)
 #### [Prioridad en los operadores en su ejecución](./operadores-prioridad.png)
 

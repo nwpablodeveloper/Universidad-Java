@@ -1,5 +1,5 @@
-## SECCIÓN 06
-### Sentencias de Control
+## SECCIÓN 06 - Sentencias de Control
+
 #### [Sentencias de control PDF](./05-01-SentenciaIfElse-CFJ.pdf)
 
 ### [1. Sentencia de control IF ELSE ](./V01_SentenciaDeControlIfElseEnJava.java)

@@ -1,7 +1,8 @@
-## SECCIÓN 07
-### [Ciclos en Java](./06-01-CicloWhile-CFJ.pdf)
+## SECCIÓN 07 - Ciclos, Bucles
 
 ### [1. Ciclo While](./V01_EjercicioCicloWhile.java)
+### [PDF](./06-01-CicloWhile-CFJ.pdf)
+
 El ciclo While se ejecuta mientras se cumpla la condición
 ```java
         var contador = 0;
@@ -15,6 +16,7 @@ El ciclo While se ejecuta mientras se cumpla la condición
 ```
 
 ### [2. Ciclo Do While](./V02_CicloDoWhile.java)
+### [PDF](./06-02-CicloDoWhile-CFJ.pdf)
 El ciclo Do While se ejecuta como minimo 1 vez y luego ejecuta la condición
 ```java
         var contador = 0;
@@ -26,6 +28,7 @@ El ciclo Do While se ejecuta como minimo 1 vez y luego ejecuta la condición
 ```
 
 ### [3. Ciclo For ](./V03_CicloFor.java)
+### [PDF](./06-03-CicloFor-CFJ.pdf)
 El ciclo for esta compuesto en 3 partes
 ```java
         for( var i = 0; i < 3; i++ ){
