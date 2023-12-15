@@ -46,7 +46,14 @@
 * Break y Contine
 * Etiquetas
 
-### [Seccion 08: Fundamentosde Java: Creación de clasee - "28min"](./src/seccion08)
+### [Seccion 08: Fundamentosde Java: Creación de clase - "28min"](./src/seccion08)
 * Crear una clase
 * Atributos y metodos de una clase
 * Creación del objeto
+
+### [Seccion 09: Fundamentosde Java: Métodos en una clase - "42min"](./src/seccion09)
+* Creación de Métodos
+* Carga de atributos y llamado del método
+* MODO DEBUG para obserbar un método
+* Enviar argumentos a un Método
+* Uso del operador THIS dentro de una clase
