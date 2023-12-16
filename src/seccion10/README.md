@@ -14,3 +14,9 @@
     }
 
 ```
+
+### [2. Sobrecarga de Constructores](./V02_SobreCargaConstructor.java)
+Si no hay ningun constructor declarado el compilador se va a encargar 
+de generar uno de forma automatica a la hora de compilar.
+si ya existe un constructor con argumentos perdemos la opción de que se genere
+un constructor de forma automatica
