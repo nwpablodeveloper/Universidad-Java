@@ -5,6 +5,9 @@ import seccion09.*;
 
 public class V01_Aritmetica {
 
+    // no esta permitido usar VAR para los atributos de una clase
+//    var variable ;
+    
     // Atributos
     int a;
     int b;

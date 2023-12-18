@@ -57,3 +57,13 @@
 * MODO DEBUG para obserbar un método
 * Enviar argumentos a un Método
 * Uso del operador THIS dentro de una clase
+
+### [Seccion 10: Fundamentos de Java: Constructores - "16min"](./src/seccion10)
+* Creación del constructor
+* Sobrecarga de constructores
+
+### [Seccion 11: Fundamentos de Java: Alcance de variables - "19min"](./src/seccion11)
+* Alcance de una variable
+* Ejercicio calcular el volumen de un cubo
+
+### [Seccion 12: Fundamentos de Java: Paso por valor y paso por referencia- "22min"](./src/seccion12)
