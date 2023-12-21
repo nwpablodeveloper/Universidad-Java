@@ -13,6 +13,8 @@ public class PalabraThis {
         
         
     }
+    
+    
 
 }
 
@@ -27,7 +29,7 @@ class Persona {
         this.nombre = nombre;
         this.apellido = apellido;
         
-        System.out.println("1 objeto Persona con this = " + this);
+        System.out.println("1 Impresion del Object actual = " + this);
 
         new Imprimir().imprimir(this);
     }
@@ -40,7 +42,7 @@ class Imprimir {
         
         System.out.println("");
         System.out.println("2 Persona desde imprimir: " + persona);
-        System.out.println("3 Object ( this )desde imprimir: " + this);
+        System.out.println("3 Impresion del Object actual: " + this);
     }
     
 }
