@@ -1,5 +1,7 @@
 ## SECCIÓN 12 - Paso por Valor y Paso por Referencia
 
+###[PDF Paso por valor y por referencia](./10-01-PasoPorValor-CFJ.PDF)
+
 ### [1. Paso por valor](./PasoPorValor.java)
 Los datos de tipos primitivos generan una nueva variable cuando pasamos
 el dato por valor a un metodo. 
