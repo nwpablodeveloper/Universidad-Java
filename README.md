@@ -82,3 +82,7 @@
 * Metodo toString
 
 ### [Seccion 16: Fundamentos de Java: Contexto estático en Java - "29min"](./src/seccion16)
+* Contexto estático en una clase
+* Uso de metodos estáticos
+
+### [Seccion 17: Fundamentos de Java: Herencia en Java - "57min"](./src/seccion17)
