@@ -86,3 +86,9 @@
 * Uso de metodos estáticos
 
 ### [Seccion 17: Fundamentos de Java: Herencia en Java - "57min"](./src/seccion17)
+* Operador static, private y protected
+* Sobre carga constructores
+
+### [Seccion 18: Fundamentos de Java: Sobrecarga de constructores y métodos - "22min"](./src/seccion18)
+* Sobre carga constructores ( con ejemplo en la seccion17 )
+* Sobre carga de métodos

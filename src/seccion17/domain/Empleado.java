@@ -7,11 +7,22 @@ public class Empleado extends Persona{
     private int idEmpleado;
     private double sueldo;
     private static int contadorEmpleado;
+    
+    public Empleado(){
+        this.idEmpleado = ++Empleado.contadorEmpleado;
+    }
 
     public Empleado(String nombre, double sueldo){
-        super(nombre);
+        
+        //super(nombre);
+        this();// Llamamos al constructor de esta misma clase
+        /* 
+            como primera linea solo puede ester el llamado a la clase padre 
+            o el llamado a un constructor de la misma clase
+        */
+        
+        this.nombre = nombre; // Llamo a los atributos de la clase padre al no poder usar super()
         this.sueldo = sueldo;
-        this.idEmpleado = ++Empleado.contadorEmpleado;
     }
 
     public int getIdEmpleado() {
