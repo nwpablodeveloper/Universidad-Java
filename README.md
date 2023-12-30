@@ -92,3 +92,22 @@
 ### [Seccion 18: Fundamentos de Java: Sobrecarga de constructores y métodos - "22min"](./src/seccion18)
 * Sobre carga constructores ( con ejemplo en la seccion17 )
 * Sobre carga de métodos
+
+### [Seccion 19: Fundamentos de Java: Paquetes en Java - "12min"](./src/seccion19)
+* Importación de paquetes dentro de Java
+
+### [Seccion 20: Fundamentos de Java: Uso de la palabra "final" - "15min"](./src/seccion20)
+* Uso de la palabra "final"
+* Uso de la palabra "final" con Objetos
+* Declaración de una constante con "final"
+
+### [Seccion 21: Fundamentos de Java: Manejo de Arreglos en Java - "32min"](./src/seccion21)
+* Declaracion de un arreglo
+* Definicion de posiciones de un arreglo
+* Inciar un arreglo con valores predeterminados
+* Un arreglo de Objectos
+
+### [Seccion 22: Fundamentos de Java: Manejo de Matrices en Java - "29min"](./src/seccion22)
+* Creación de una matriz
+* Ciclos for anidados
+* Matrices de Objetos
