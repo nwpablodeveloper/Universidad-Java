@@ -70,7 +70,6 @@ public class MundoPc {
         orden1.agregarComputadora(compu9);
         orden1.agregarComputadora(compu10);
         
-        
         orden1.mostrarOrden();
     }
     

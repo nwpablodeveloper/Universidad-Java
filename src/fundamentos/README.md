@@ -1,4 +1,4 @@
-# Universidad JAVA - "106 horas"
+# Fundamentos Java
 
 ### [Sección 02: Fundamentos Java: Instalación Java y Apache Netbeans - "19 min" ](./seccion02)
 
