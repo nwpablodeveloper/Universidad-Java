@@ -16,3 +16,27 @@
 
 ### [Sección 29: Autoboxing y Unboxing - "8 min" ](./seccion29)
 * Autoboxing y Unboxing
+Cada tipo de dato primitivo tiene una clase asociada llamada:
+Warpper o Envolvente del tipo primitivo.
+Estas clases se usan por que tinene atributos y metodos a diferencia de 
+los tipos primitivos que solo almacenan un valor y no tienn ni atributos ni 
+metodos
+
+|tipo|Envolvente|
+|-|-|
+|int|INteger|
+|long|Long|
+|float|Float|
+|double|Dobule|
+|boolean|Boolean|
+|byte|Byte|
+|char|Character|
+|short|Short|
+
+### [Sección 30: Modificadores de Accesos en Java - "33 min" ](./seccion30)
+* Modificador public
+Puede acceder a las clases con modificador Public desde otro paquete
+
+* Modificador protected
+* Modificador default
+* Modificador private
