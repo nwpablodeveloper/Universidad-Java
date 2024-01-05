@@ -13,7 +13,7 @@
 * Operador del resto de una divisiòn
 * Ejercicio saber si un numero es par
 
-### [2. Operadores de Asignaciòn](./V02_OperadoresDeAsignacionEnJava.java)
+### [2. Operadores de Asignación](./V02_OperadoresDeAsignacionEnJava.java)
 El operador de asignación va a evaluar
 todo lo que esta a la derehca ( = ) y se lo va 
 a asignar a la variable que este a la izquierda

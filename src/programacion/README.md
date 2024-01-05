@@ -24,7 +24,7 @@ metodos
 
 |tipo|Envolvente|
 |-|-|
-|int|INteger|
+|int|Integer|
 |long|Long|
 |float|Float|
 |double|Dobule|
