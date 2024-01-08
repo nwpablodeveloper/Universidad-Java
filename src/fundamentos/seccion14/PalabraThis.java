@@ -11,11 +11,7 @@ public class PalabraThis {
         System.out.println("5 persona Nombre = " + persona.nombre);
         System.out.println("6 persona Apellido = " + persona.apellido);
         
-        
     }
-    
-    
-
 }
 
 class Persona {

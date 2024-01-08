@@ -37,6 +37,21 @@ metodos
 * Modificador public
 Puede acceder a las clases con modificador Public desde otro paquete
 
+* Modificadro public
+Podemos acceder a sus atributos y metedos desde otro paquete sin 
+restrincciones
+
 * Modificador protected
+Los atributos, constructores o metodos que esten con protected solo 
+se pueden acceder desde otra clase hija
+
 * Modificador default
+Las clases que tengan modificadores de tipo defult solo van 
+a poder ser accedidos desde cuelquier otra clase pero
+que este dentro del mismo paquete
+
 * Modificador private
+Solo pueden ser accedido dentro de la misma clase
+Necesitamos entrar con 1 constructur publico para poder tener acceso
+a todo el resto de lo elementos dentro de la clase privada
+
