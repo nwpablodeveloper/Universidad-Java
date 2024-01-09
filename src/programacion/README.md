@@ -55,3 +55,51 @@ Solo pueden ser accedido dentro de la misma clase
 Necesitamos entrar con 1 constructur publico para poder tener acceso
 a todo el resto de lo elementos dentro de la clase privada
 
+### [Sección 31: Sobreescritura de metodos en Java - "13 min" ](./seccion31)
+La sobreescritura se aplica sobre una clase heredada, ya que la sobreescritura
+en la clase hija modifica el comportamiento de la clse padre
+
+### [Sección 32: Polimorfismo en Java - "22 min" ](./seccion32)
+Para poder aplicar el Polimorfismo es necesario tener sobreescrita un metodo
+desde una clase hija para que modifique el comportamiento de su clase padre.
+El polimorfismo se aplica desde un metodo en la clase donde esta el "main"
+
+EL MODIFICADOR APLICADO EN EL METODO DE LA CLASE HIJA NO PUEDE SER MAS RESTRINGIDO
+QUE EL MODIFICADOR QUE TIENE EL METODO LA CLASE PADRE
+Si la clase Padre tiene un modificador de tipo PROTECTED
+La clase hija NO puede usar de tipo PRIVETE, pero si los otros
+public, defuault, protected
+
+### [Sección 33: Palabra instance en Java - "19 min" ](./seccion33)
+Esto nos sirve para identificar el tipo de dato y lo podemos convertir
+a una variable de tipo padre a un tipo hijo y asi hacer una conversión 
+segura.
+
+```java
+
+    // Polimorfismo
+    public static void determinarTipo(Empleado empleado){
+        //preguntamos si la variable empleado es del tipo Gerente
+        if( empleado instanceof Gerente){
+            System.out.println("Es de tipo Gerente");
+        } 
+        if( empleado instanceof Empleado){
+            System.out.println("Es de tipo Empleado");
+        }
+        if( empleado instanceof Object){
+            System.out.println("Es de tipo Object");
+        }
+    }
+
+    // Polimorfismo
+    public static void determinarTipo(Empleado empleado){
+        //preguntamos si la variable empleado es del tipo Gerente
+        if( empleado instanceof Gerente){
+            System.out.println("Es de tipo Gerente");
+        } else if( empleado instanceof Empleado){
+            System.out.println("Es de tipo Empleado");
+        } else if( empleado instanceof Object){
+            System.out.println("Es de tipo Object");
+        }
+    }
+```
