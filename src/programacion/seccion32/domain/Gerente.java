@@ -9,7 +9,6 @@ public class Gerente extends Empleado{
         this.departamento = departamento;
     }
     
-    
     @Override // sobreescribimos el metodo de la clase padre
     public String obtenerDetalles(){
         return super.obtenerDetalles() + ", Departamento: " + this.departamento;
@@ -18,6 +17,15 @@ public class Gerente extends Empleado{
     public void imprimir(Gerente gerente1) {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
-    
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("Gerente{");
+        sb.append("departamento=").append(departamento);
+        sb.append('}');
+        return sb.toString();
+    }
+ 
     
 }
