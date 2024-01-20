@@ -34,9 +34,6 @@ metodos
 |short|Short|
 
 ### [Sección 30: Modificadores de Accesos en Java - "33 min" ](./seccion30)
-* Modificador public
-Puede acceder a las clases con modificador Public desde otro paquete
-
 * Modificadro public
 Podemos acceder a sus atributos y metedos desde otro paquete sin 
 restrincciones
@@ -103,3 +100,14 @@ segura.
         }
     }
 ```
+### [Sección 34: UpCasting / DownCasting- "20 min" ](./seccion34)
+* Conversión de objetos
+* Converir un Objeto padre a un objeto Hijo
+* Convertir un Objecto hijo a uno padre
+
+### [Sección 35: Clase Object en Java - "19 min" ](./seccion35)
+La clase OBJECT es la clase padre de todas las clase en Java
+* hashCode
+* equals
+* Comparar igualdad entre Objetos
+* Igualdad de contenido de Objetos

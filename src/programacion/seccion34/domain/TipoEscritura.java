@@ -7,8 +7,8 @@ public enum TipoEscritura {
     
     private final String descripcion;
     
-    private TipoEscritura(String descString){
-        this.descripcion = descString;
+    private TipoEscritura(String descripcion){
+        this.descripcion = descripcion;
     }
     
     public String getDescripcion(){
