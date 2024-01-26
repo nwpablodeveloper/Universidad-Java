@@ -23,6 +23,14 @@ public class TestClaseObject {
             System.out.println("Son distintos en contenido");
         }
         
+        if(empleado1.hashCode() == empleado2.hashCode()) {
+            System.out.println("El Hashcode entre objetos es igual");
+        } else {
+            System.out.println("El Hashcode entre objetos es distinto");
+        }
+       
+               
+        
     }
     
 }

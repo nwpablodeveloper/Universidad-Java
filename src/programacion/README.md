@@ -65,7 +65,10 @@ EL MODIFICADOR APLICADO EN EL METODO DE LA CLASE HIJA NO PUEDE SER MAS RESTRINGI
 QUE EL MODIFICADOR QUE TIENE EL METODO LA CLASE PADRE
 Si la clase Padre tiene un modificador de tipo PROTECTED
 La clase hija NO puede usar de tipo PRIVETE, pero si los otros
-public, defuault, protected
+public, defuault, protected.
+
+Cuando usamos un metodo en común entre la clases padre y la clase hija
+el polimorfimo va a tomar prioridad sobre la clase de menor jerarquia
 
 ### [Sección 33: Palabra instance en Java - "19 min" ](./seccion33)
 Esto nos sirve para identificar el tipo de dato y lo podemos convertir
@@ -111,3 +114,20 @@ La clase OBJECT es la clase padre de todas las clase en Java
 * equals
 * Comparar igualdad entre Objetos
 * Igualdad de contenido de Objetos
+
+### [Sección 36: Clase Abstractas en Java - "17 min" ](./seccion36)
+* Cuando declarmos un metod abstratco tambien debe de serlo su clase
+* No podemos crear objetos de las clases marcadas como abstractas, si no, 
+es que vamos a tener que crear los objetes por medio de las clases hijas
+
+### [Sección 37: Manejo de INterfaces en Java - "25 min" ](./seccion37)
+Las interfaces no tiene constructores, solamente va a tener metodos y todos
+sus metodos van a ser abstraactos.
+Al crear una interface estamos obligados a implementar todos sus metodos
+en la clase que sea implementada la Interface
+* Crear variables de tipo Interface
+
+### [Sección 38: Manejo de JavaBeans en Java - "13 min" ](./seccion38)
+* Es para permitir que las instacias creadas de las clases puedan ser 
+convertidas en secuancias de Bytes y viceversa. El objeto al ser serializado
+puede ser guardado o transmitido de forma eficiente en la red entre servidores
