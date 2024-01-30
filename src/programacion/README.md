@@ -131,3 +131,6 @@ en la clase que sea implementada la Interface
 * Es para permitir que las instacias creadas de las clases puedan ser 
 convertidas en secuancias de Bytes y viceversa. El objeto al ser serializado
 puede ser guardado o transmitido de forma eficiente en la red entre servidores
+
+### [Sección 39: Manejo de Excepciones en Java - "27 min" ](./seccion39)
+La clase Padre de las excepciones es la clase "Exception"
