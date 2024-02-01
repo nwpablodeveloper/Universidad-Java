@@ -134,3 +134,8 @@ puede ser guardado o transmitido de forma eficiente en la red entre servidores
 
 ### [Sección 39: Manejo de Excepciones en Java - "27 min" ](./seccion39)
 La clase Padre de las excepciones es la clase "Exception"
+
+### [Sección 40: API de Collections en Java - "26 min" ](./seccion40)
+* List ArrayList
+* Set
+* HashSet
