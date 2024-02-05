@@ -1,12 +1,12 @@
 package programacion.seccion40.test;
 
+import java.util.List;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
 import java.util.Set;
+import java.util.Map;
+import java.util.HashMap;
 
 
 public class TestColecciones {
@@ -53,6 +53,10 @@ public class TestColecciones {
         System.out.println( nombre);
         System.out.println( apellido);
         System.out.println( edad);
+        
+        System.out.println("");
+        System.out.println("miMapa.Keyset()");
+        imprimir(miMapa.keySet());
     }
     
     public static void imprimir(Collection coleccion){
