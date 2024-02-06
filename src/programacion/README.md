@@ -1,3 +1,4 @@
+// https://www.facebook.com/reel/784031636885722
 # Programación con Java:
 
 ### [Sección 25: Argumentos variables en Java - "9 min" ](./seccion25)
@@ -139,3 +140,7 @@ La clase Padre de las excepciones es la clase "Exception"
 * List ArrayList
 * Set
 * HashSet
+
+### [Sección 41: Menejo de Generics en Java - "23 min" ](./seccion41)
+
+### [Sección 42: Menejo de Archivos en Java - "25 min" ](./seccion42)
