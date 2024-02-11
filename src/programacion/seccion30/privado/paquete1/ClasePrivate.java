@@ -4,6 +4,7 @@ public class ClasePrivate {
     
     private String atributoPrivado = "Esto es un atributo privado";
     
+    // Constructor privado va a ser llamado por medio de un constructor public
     private ClasePrivate(){
         System.out.println("Constructor privado");
     }

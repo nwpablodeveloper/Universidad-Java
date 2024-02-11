@@ -144,3 +144,6 @@ La clase Padre de las excepciones es la clase "Exception"
 ### [Sección 41: Menejo de Generics en Java - "23 min" ](./seccion41)
 
 ### [Sección 42: Menejo de Archivos en Java - "25 min" ](./seccion42)
+
+### [Sección 43: Laboratorio de la sección trabajo practico - "1h 33 min" ](./seccion42)
+
