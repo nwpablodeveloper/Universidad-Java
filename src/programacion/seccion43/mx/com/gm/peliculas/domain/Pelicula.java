@@ -3,8 +3,6 @@ package programacion.seccion43.mx.com.gm.peliculas.domain;
 public class Pelicula {
     
     private static String nombre;
-
-
     
     public Pelicula(){
     }
@@ -13,6 +11,7 @@ public class Pelicula {
         this.nombre = nombre;
     }
     
+
     public String getNombre() {
         return this.nombre;
     }
