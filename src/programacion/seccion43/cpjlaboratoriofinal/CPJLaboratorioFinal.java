@@ -7,7 +7,8 @@ public class CPJLaboratorioFinal {
     public static void main(String[] args) {
         
         Pelicula pelicula = new Pelicula("Piratas del caribe");
-        System.out.println(pelicula.toString());
+        
+        System.out.println(pelicula);
         
     }
     
