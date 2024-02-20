@@ -65,6 +65,7 @@ public class TestColeccionesGeneric {
         
         System.out.println("----- Con For de tipo Object-----");
         
+        
         for(Object elemento: coleccion){
             System.out.println(elemento);
         }
